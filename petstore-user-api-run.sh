@@ -1,0 +1,1 @@
+jmeter -Jthreads_count=50 -Jtarget_rate_time_min=0.5 -Jramp_up_time_min=0.1 -Jramp_up_steps=10 -n -t test_cases/petstore-user-api/petstore-user-api.jmx -l test_cases/petstore-user-api/logs/petstore-user-api-test-result.jtl -e -f -o test_cases/petstore-user-api/report

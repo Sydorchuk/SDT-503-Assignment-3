@@ -10,5 +10,5 @@ Make sure all the required packages installed:
 - [Blazemeter Library for JMeter](https://jmeter-plugins.org/wiki/ConcurrencyThreadGroup/)
 
 ### JMeter commands
-To execute the available test-case use `run.sh`. Command should be run from the project root folder.
+To execute the available test-case use `petstore-user-api-run.sh`. Command should be run from the project root folder.
 
