@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+logs
+report
+
+# macOS
+.DS_Store
+
+
+*.log

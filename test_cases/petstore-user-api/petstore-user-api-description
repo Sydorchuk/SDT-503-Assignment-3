@@ -1,0 +1,10 @@
+This test simulates users interacting with the API in parallel.
+
+Number of active users: 50
+Total test execution time: 2 min 30s
+
+Each user follows the next steps:
+1. Create a user
+2. Login
+3. Get user details
+4. Delete the user
